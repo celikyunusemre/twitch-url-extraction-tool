@@ -54,6 +54,14 @@ If you have any questions or need assistance with the contribution process, plea
 
 I greatly appreciate your contribution and look forward to your involvement in improving this project!
 
+## Credits
+
+I would like to give credit to the [dudik/twitch-m3u8](https://github.com/dudik/twitch-m3u8) repository for their fantastic work and contributions. 
+
+The twitch-m3u8 project has been a valuable resource for me, providing inspiration and insights into various aspects of my project. 
+
+I would like to express my gratitude to the contributors of twitch-m3u8 for their dedication and the open-source community for their collaboration. I highly recommend checking out their repository for more information and exploring their outstanding work.
+
 ## Contact
 
 - [yunusemrecelikk21@gmail.com](mailto:yunusemrecelikk21@gmail.com)
